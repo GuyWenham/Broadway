@@ -27,13 +27,13 @@ h3 {
 }
 
 .nav {
-  background-image: url("resources\the-flatiron-building.png");
+  background-image: url("./resources/the-flatiron-building.png");
 }
 
 /* Designed in New York */
 
 .design {
-  background-image: url("resources\the-flatiron-building.png");
+  background-image: url("./resources/the-flatiron-building.png");
 }
 
 .design p {
